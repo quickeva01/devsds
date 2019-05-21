@@ -1,4 +1,4 @@
-env: DEFAULT
+env: DEFAULT_PLUS
 service: base
 server.port: 8080
 
